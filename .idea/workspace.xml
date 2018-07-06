@@ -1,0 +1,1125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c024f69d-cd1f-41e7-9d34-1162ef1b1a17" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README.MD" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/UserDao.java" afterPath="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/UserDao.java" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/tangxigua/yunxiao/YunxiaoApplicationTests.java" afterPath="$PROJECT_DIR$/src/test/java/com/tangxigua/yunxiao/YunxiaoApplicationTests.java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="YunxiaoApplicationTests.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/tangxigua/yunxiao/YunxiaoApplicationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="61" column="5" lean-forward="false" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="yunxiao.iml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/yunxiao.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="441">
+              <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Category.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/model/Category.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+              <folding>
+                <element signature="e#625#626#0" expanded="true" />
+                <element signature="e#650#651#0" expanded="true" />
+                <element signature="e#684#685#0" expanded="true" />
+                <element signature="e#712#713#0" expanded="true" />
+                <element signature="e#743#744#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#810#811#0" expanded="true" />
+                <element signature="e#842#843#0" expanded="true" />
+                <element signature="e#880#881#0" expanded="true" />
+                <element signature="e#914#915#0" expanded="true" />
+                <element signature="e#968#969#0" expanded="true" />
+                <element signature="e#1014#1015#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="651">
+              <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="YunxiaoApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/YunxiaoApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Commodity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/model/Commodity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="D:/../../company/qisheng/cupid_3" value="PREVIEW" />
+        <entry key="D:/../../company_1/qisheng/cupid_3" value="PREVIEW" />
+        <entry key="D:/cupid_3" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/controller.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/service/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/model/ViewObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/model/commodity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/util/CommodityDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/util/CommonUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/CommodityDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/UserDaoTest.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/BaseDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/sqlService.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/sql/init.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/util/SqlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/util/TableName.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/CategoryDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/sqlProvidr/CategorySqlProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/model/Commodity.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/model/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/model/Category.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/BaseDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/util/SqlUtil.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/sqlProvidr/BaseSqlProvider.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/tangxigua/yunxiao/YunxiaoApplicationTests.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="4" />
+    <option name="y" value="2" />
+    <option name="width" value="1206" />
+    <option name="height" value="1042" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource ProjectPane="true" />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="yunxiao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yunxiao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yunxiao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yunxiao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yunxiao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yunxiao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yunxiao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yunxiao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="sqlProvidr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yunxiao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yunxiao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="yunxiao" type="b2602c69:ProjectViewProjectNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="yunxiao" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="last_opened_file_path" value="E:/BaiduNetdiskDownload/project(1)/z1b8jp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Git\company_2\qisheng\yunxiao\src\main\resources\sql" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Git\company_2\qisheng\yunxiao\src\main\java\com\tangxigua\yunxiao\dao" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.YunxiaoApplicationTests.test">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="YunxiaoApplicationTests.baseDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tangxigua.yunxiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="yunxiao" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tangxigua.yunxiao" />
+      <option name="MAIN_CLASS_NAME" value="com.tangxigua.yunxiao.YunxiaoApplicationTests" />
+      <option name="METHOD_NAME" value="baseDaoTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="YunxiaoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tangxigua.yunxiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="yunxiao" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tangxigua.yunxiao" />
+      <option name="MAIN_CLASS_NAME" value="com.tangxigua.yunxiao.YunxiaoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="YunxiaoApplicationTests.getInsertFields" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tangxigua.yunxiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="yunxiao" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tangxigua.yunxiao" />
+      <option name="MAIN_CLASS_NAME" value="com.tangxigua.yunxiao.YunxiaoApplicationTests" />
+      <option name="METHOD_NAME" value="getInsertFields" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="YunxiaoApplicationTests.mybaitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tangxigua.yunxiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="yunxiao" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tangxigua.yunxiao" />
+      <option name="MAIN_CLASS_NAME" value="com.tangxigua.yunxiao.YunxiaoApplicationTests" />
+      <option name="METHOD_NAME" value="mybaitsTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="YunxiaoApplicationTests.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.tangxigua.yunxiao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="yunxiao" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.tangxigua.yunxiao" />
+      <option name="MAIN_CLASS_NAME" value="com.tangxigua.yunxiao.YunxiaoApplicationTests" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration name="YunxiaoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.tangxigua.yunxiao.YunxiaoApplication" />
+      <module name="yunxiao" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Spring Boot.YunxiaoApplication" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.YunxiaoApplicationTests.contextLoads" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.YunxiaoApplicationTests.getInsertFields" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.YunxiaoApplicationTests.mybaitsTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.YunxiaoApplicationTests.baseDaoTest" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.YunxiaoApplicationTests.test" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.YunxiaoApplicationTests.test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.YunxiaoApplicationTests.baseDaoTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.YunxiaoApplicationTests.getInsertFields" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.YunxiaoApplicationTests.mybaitsTest" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.YunxiaoApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c024f69d-cd1f-41e7-9d34-1162ef1b1a17" name="Default" comment="" />
+      <created>1530610036281</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530610036281</updated>
+      <workItem from="1530610040223" duration="13368000" />
+      <workItem from="1530628354278" duration="12048000" />
+      <workItem from="1530690965325" duration="18186000" />
+      <workItem from="1530888153788" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="YunxiaoApplicationTests_baseDaoTest - 2018.07.04 at 17h 05m 12s.xml">
+      <configuration name="YunxiaoApplicationTests.baseDaoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YunxiaoApplicationTests_baseDaoTest - 2018.07.04 at 17h 06m 11s.xml">
+      <configuration name="YunxiaoApplicationTests.baseDaoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YunxiaoApplicationTests_baseDaoTest - 2018.07.04 at 17h 07m 36s.xml">
+      <configuration name="YunxiaoApplicationTests.baseDaoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YunxiaoApplicationTests_baseDaoTest - 2018.07.04 at 17h 09m 11s.xml">
+      <configuration name="YunxiaoApplicationTests.baseDaoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YunxiaoApplicationTests_baseDaoTest - 2018.07.04 at 18h 41m 53s.xml">
+      <configuration name="YunxiaoApplicationTests.baseDaoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YunxiaoApplicationTests_baseDaoTest - 2018.07.04 at 18h 43m 29s.xml">
+      <configuration name="YunxiaoApplicationTests.baseDaoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YunxiaoApplicationTests_baseDaoTest - 2018.07.04 at 18h 43m 44s.xml">
+      <configuration name="YunxiaoApplicationTests.baseDaoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YunxiaoApplicationTests_baseDaoTest - 2018.07.04 at 18h 52m 20s.xml">
+      <configuration name="YunxiaoApplicationTests.baseDaoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YunxiaoApplicationTests_baseDaoTest - 2018.07.04 at 18h 53m 22s.xml">
+      <configuration name="YunxiaoApplicationTests.baseDaoTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="YunxiaoApplicationTests_test - 2018.07.05 at 17h 09m 01s.xml">
+      <configuration name="YunxiaoApplicationTests.test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43639000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="4" y="2" width="1206" height="1042" extended-state="7" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24864277" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32391304" sideWeight="0.4978678" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17452008" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24456522" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32899022" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="22" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="password" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="27" column="28" lean-forward="false" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="18" lean-forward="false" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1134">
+          <caret line="68" column="0" lean-forward="false" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/util/CommonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="903">
+          <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="672">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/init.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="72" lean-forward="false" selection-start-line="7" selection-start-column="72" selection-end-line="7" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/model/ViewObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="26" column="33" lean-forward="false" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="51" column="0" lean-forward="false" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/controller.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/lang/Class.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1558">
+          <caret line="1913" column="19" lean-forward="false" selection-start-line="1913" selection-start-column="19" selection-end-line="1913" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/jre/lib/mysql-connector-java-5.1.7-bin.jar!/com/mysql/jdbc/SQLError.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/model/ViewObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.7.RELEASE/spring-web-5.0.7.RELEASE.jar!/org/springframework/web/bind/annotation/RequestBody.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="16" column="18" lean-forward="false" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/time/Duration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="129" column="2" lean-forward="true" selection-start-line="129" selection-start-column="2" selection-end-line="129" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.0.3.RELEASE/spring-boot-autoconfigure-2.0.3.RELEASE.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="79" column="18" lean-forward="true" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="22" column="13" lean-forward="false" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/util/CommonUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="19" column="8" lean-forward="false" selection-start-line="19" selection-start-column="8" selection-end-line="19" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/session/SqlSessionManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="183" column="32" lean-forward="false" selection-start-line="183" selection-start-column="32" selection-end-line="183" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/session/SqlSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="41" column="9" lean-forward="false" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/session/RowBounds.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1528340638111" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1528340638111" expanded="true" signature="413:478" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="524:589" ph="{...}" />
+            <marker date="1528340638111" expanded="false" signature="617:628" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="647:653" ph=" }" />
+            <marker date="1528340638111" expanded="false" signature="680:691" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="709:715" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/executor/result/DefaultMapResultHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+          <folding>
+            <marker date="1528340638111" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1528340638111" expanded="false" signature="157:494" ph="..." />
+            <marker date="1528340638111" expanded="true" signature="964:1220" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="1287:1548" ph="{...}" />
+            <marker date="1528340638111" expanded="false" signature="1589:1600" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="1626:1632" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/session/ResultHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1528340638111" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2436">
+          <caret line="149" column="9" lean-forward="false" selection-start-line="149" selection-start-column="9" selection-end-line="149" selection-end-column="9" />
+          <folding>
+            <marker date="1528340638111" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1528340638111" expanded="false" signature="158:1100" ph="..." />
+            <marker date="1528340638111" expanded="true" signature="1444:1595" ph="{...}" />
+            <marker date="1528340638111" expanded="false" signature="1673:1684" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="1721:1727" ph=" }" />
+            <marker date="1528340638111" expanded="false" signature="1773:1784" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="1831:1837" ph=" }" />
+            <marker date="1528340638111" expanded="true" signature="1902:2262" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="2335:2425" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="2516:2603" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="2715:3357" ph="{...}" />
+            <marker date="1528340638111" expanded="false" signature="3414:3425" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="3475:3481" ph=" }" />
+            <marker date="1528340638111" expanded="true" signature="3557:3639" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="3736:4269" ph="{...}" />
+            <marker date="1528340638111" expanded="false" signature="4322:4333" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="4381:4387" ph=" }" />
+            <marker date="1528340638111" expanded="true" signature="4459:4539" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="4632:5102" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="5186:5264" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="5330:5411" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="5516:5920" ph="{...}" />
+            <marker date="1528340638111" expanded="false" signature="5961:5972" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="6016:6022" ph=" }" />
+            <marker date="1528340638111" expanded="false" signature="6081:6092" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="6133:6139" ph=" }" />
+            <marker date="1528340638111" expanded="false" signature="6180:6191" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="6235:6241" ph=" }" />
+            <marker date="1528340638111" expanded="true" signature="6301:6763" ph="{...}" />
+            <marker date="1528340638111" expanded="false" signature="6804:6815" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="6859:6865" ph=" }" />
+            <marker date="1528340638111" expanded="false" signature="6924:6935" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="6976:6982" ph=" }" />
+            <marker date="1528340638111" expanded="false" signature="7008:7019" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="7038:7044" ph=" }" />
+            <marker date="1528340638111" expanded="true" signature="7084:7427" ph="{...}" />
+            <marker date="1528340638111" expanded="false" signature="7455:7466" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="7487:7493" ph=" }" />
+            <marker date="1528340638111" expanded="true" signature="7535:7882" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="7931:8257" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="8283:8518" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="8552:9065" ph="{...}" />
+            <marker date="1528340638111" expanded="false" signature="9110:9121" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="9147:9153" ph=" }" />
+            <marker date="1528340638111" expanded="false" signature="9196:9207" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="9255:9261" ph=" }" />
+            <marker date="1528340638111" expanded="true" signature="9301:9544" ph="{...}" />
+            <marker date="1528340638111" expanded="false" signature="9574:9585" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="9617:9623" ph=" }" />
+            <marker date="1528340638111" expanded="true" signature="9679:9820" ph="{...}" />
+            <marker date="1528340638111" expanded="false" signature="9883:9894" ph=" { " />
+            <marker date="1528340638111" expanded="false" signature="9941:9947" ph=" }" />
+            <marker date="1528340638111" expanded="true" signature="9998:10545" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="10611:11021" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="10717:10728" ph="{}" />
+            <marker date="1528340638111" expanded="true" signature="10763:11015" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1155">
+          <caret line="55" column="31" lean-forward="false" selection-start-line="55" selection-start-column="31" selection-end-line="55" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/BaseDaoImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/UserDaoTest.java" />
+    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-orm/5.0.7.RELEASE/spring-orm-5.0.7.RELEASE.pom">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/sqlService.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/CommodityDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/sql/init.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/mapping/MappedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="147" column="0" lean-forward="false" selection-start-line="147" selection-start-column="0" selection-end-line="147" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/annotations/SelectProvider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/CategoryDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="24" column="73" lean-forward="false" selection-start-line="24" selection-start-column="73" selection-end-line="24" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/util/TableName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="18" column="19" lean-forward="false" selection-start-line="18" selection-start-column="19" selection-end-line="18" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.4.6/mybatis-3.4.6.jar!/org/apache/ibatis/builder/annotation/ProviderSqlSource.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="145" column="22" lean-forward="false" selection-start-line="145" selection-start-column="22" selection-end-line="145" selection-end-column="22" />
+          <folding>
+            <marker date="1528340638111" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1528340638111" expanded="false" signature="160:609" ph="..." />
+            <marker date="1528340638111" expanded="true" signature="1035:1053" ph="/**...*/" />
+            <marker date="1528340638111" expanded="true" signature="1145:1218" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="1337:3854" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="3912:4043" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="4107:6028" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="6106:6446" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="6552:6923" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="6998:7323" ph="{...}" />
+            <marker date="1528340638111" expanded="true" signature="7375:7459" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/BaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="23" column="4" lean-forward="false" selection-start-line="23" selection-start-column="4" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/util/SqlUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="53" column="52" lean-forward="false" selection-start-line="53" selection-start-column="52" selection-end-line="53" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/sqlProvidr/BaseSqlProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="28" column="24" lean-forward="false" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/sqlProvidr/CategorySqlProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="21">
+            <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/yunxiao.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="33" lean-forward="false" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/model/Commodity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="21" lean-forward="false" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/model/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+          <folding>
+            <element signature="e#625#626#0" expanded="true" />
+            <element signature="e#650#651#0" expanded="true" />
+            <element signature="e#684#685#0" expanded="true" />
+            <element signature="e#712#713#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#810#811#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#880#881#0" expanded="true" />
+            <element signature="e#914#915#0" expanded="true" />
+            <element signature="e#968#969#0" expanded="true" />
+            <element signature="e#1014#1015#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/YunxiaoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tangxigua/yunxiao/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="651">
+          <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/tangxigua/yunxiao/YunxiaoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="61" column="5" lean-forward="false" selection-start-line="61" selection-start-column="5" selection-end-line="61" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

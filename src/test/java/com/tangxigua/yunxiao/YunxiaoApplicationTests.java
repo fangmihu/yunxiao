@@ -55,6 +55,12 @@ public class YunxiaoApplicationTests {
 		categoryDao.save(category);
 	}
 
+	@Test
+	public void  test(){
+		Long test = userDao.test();
+		System.out.println(test);
+	}
+
 
 
 }
