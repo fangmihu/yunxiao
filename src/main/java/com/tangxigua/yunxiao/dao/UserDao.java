@@ -33,4 +33,7 @@ public interface UserDao {
     @Insert({"insert into ", TABLE_NAME, INSERT_FIELDS, " values (" + INSERT_VALUES + ")"})
     int insert(User user);
 
+    @Select({"select id from user where id = 100"})
+    Long test();
+
 }
