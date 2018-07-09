@@ -1,7 +1,3 @@
-package com.tangxigua.yunxiao.dao.util;
-
-import java.lang.annotation.*;
-
 /*******************************************************
  * Copyright (C) 2018 iQIYI.COM - All Rights Reserved
  *
@@ -12,6 +8,9 @@ import java.lang.annotation.*;
  * Created by fangmingfu_sx <fangmingfu_sx@qiyi.com>
  * in 2018/7/4
  *******************************************************/
+package com.tangxigua.yunxiao.dao.util;
+
+import java.lang.annotation.*;
 
 @Target(ElementType.TYPE)
 @Retention(RetentionPolicy.RUNTIME)

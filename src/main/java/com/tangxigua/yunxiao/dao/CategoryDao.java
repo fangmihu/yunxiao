@@ -1,10 +1,3 @@
-package com.tangxigua.yunxiao.dao;
-
-import com.tangxigua.yunxiao.dao.sqlProvidr.CategorySqlProvider;
-import com.tangxigua.yunxiao.model.Category;
-import org.apache.ibatis.annotations.*;
-import org.springframework.stereotype.Repository;
-
 /*******************************************************
  * Copyright (C) 2018 iQIYI.COM - All Rights Reserved
  *
@@ -15,6 +8,12 @@ import org.springframework.stereotype.Repository;
  * Created by fangmingfu_sx <fangmingfu_sx@qiyi.com>
  * in 2018/7/4
  *******************************************************/
+package com.tangxigua.yunxiao.dao;
+
+import com.tangxigua.yunxiao.dao.sqlProvidr.CategorySqlProvider;
+import com.tangxigua.yunxiao.model.Category;
+import org.apache.ibatis.annotations.*;
+import org.springframework.stereotype.Repository;
 
 @Mapper
 @Repository
@@ -25,6 +24,6 @@ public interface CategoryDao {
     @SelectProvider(type = CategorySqlProvider.class, method = "getByName")
     Category getByName(@Param("name") String name);
 
-    @InsertProvider(type = CategorySqlProvider.class, method = "save")
-    int save(Category category);
+    @InsertProvider(type = CategorySqlProvider.class, method = "insert")
+    int insert(Category category);
 }

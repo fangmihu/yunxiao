@@ -1,17 +1,14 @@
-package com.tangxigua.yunxiao.service;
+package com.tangxigua.yunxiao.service.impl;
 
 import com.tangxigua.yunxiao.dao.UserDao;
 import com.tangxigua.yunxiao.model.User;
-import com.tangxigua.yunxiao.model.ViewObject;
+import com.tangxigua.yunxiao.VO.ViewObject;
+import com.tangxigua.yunxiao.service.UserService;
 import com.tangxigua.yunxiao.util.CommonUtil;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.security.SecurityProperties;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
-import sun.security.provider.MD5;
 
-import java.util.HashMap;
-import java.util.Map;
 import java.util.UUID;
 
 /*******************************************************
@@ -27,7 +24,7 @@ import java.util.UUID;
 
 
 @Service
-public class UserServiceImpl implements UserService{
+public class UserServiceImpl implements UserService {
 
     @Autowired
     private UserDao userDao;

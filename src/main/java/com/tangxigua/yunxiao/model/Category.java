@@ -1,7 +1,3 @@
-package com.tangxigua.yunxiao.model;
-
-import com.tangxigua.yunxiao.dao.util.TableName;
-
 /*******************************************************
  * Copyright (C) 2018 iQIYI.COM - All Rights Reserved
  *
@@ -12,8 +8,10 @@ import com.tangxigua.yunxiao.dao.util.TableName;
  * Created by fangmingfu_sx <fangmingfu_sx@qiyi.com>
  * in 2018/7/4
  *******************************************************/
+package com.tangxigua.yunxiao.model;
 
-@TableName("category")
+import com.tangxigua.yunxiao.dao.util.TableName;
+
 public class Category {
 
     private Long id;

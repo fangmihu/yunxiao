@@ -36,7 +36,7 @@ public interface BaseDao<T>{
 //    @SelectProvider(type = BaseSqlProvider.class, method = "getByName")
 //    Category getByName(@Param("name") String name, Class entityClass);
 //
-//    @InsertProvider(type = BaseSqlProvider.class, method = "save")
-//    int save(Category category);
+//    @InsertProvider(type = BaseSqlProvider.class, method = "insert")
+//    int insert(Category category);
 }
 

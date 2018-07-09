@@ -1,7 +1,7 @@
 package com.tangxigua.yunxiao.service;
 
 import com.tangxigua.yunxiao.model.User;
-import com.tangxigua.yunxiao.model.ViewObject;
+import com.tangxigua.yunxiao.VO.ViewObject;
 
 /*******************************************************
  * Copyright (C) 2018 iQIYI.COM - All Rights Reserved

@@ -58,7 +58,7 @@ public class BaseSqlProvider<T> {
     }
 
     //添加
-    public String save(T t){
+    public String insert(T t){
         SQL sql = new SQL();
         sql.INSERT_INTO(TABLE_NAME).VALUES(INSERT_FIELDS, INSERT_VALUES);
         return sql.toString();
@@ -91,6 +91,23 @@ public class BaseSqlProvider<T> {
         sql.SET(SELECT_FIELDS).FROM(TABLE_NAME);
         return sql.toString();
     }
+
+
+    public String selectByColumn(String field, @Param("key") Number key){
+        SQL sql = new SQL();
+        String colum = SqlUtil.getColumName(field);
+        sql.SELECT(SELECT_FIELDS).FROM(TABLE_NAME).WHERE(colum, " = #{key}");
+        return sql.toString();
+    }
+
+    public String selectByColumn(String field, @Param("key") String key){
+        SQL sql = new SQL();
+        String colum = SqlUtil.getColumName(field);
+        sql.SELECT(SELECT_FIELDS).FROM(TABLE_NAME).WHERE(colum, " = #{key}");
+        return sql.toString();
+    }
+
+
 
 
 }

@@ -1,5 +1,6 @@
 package com.tangxigua.yunxiao.dao.util;
 
+import com.google.common.base.CaseFormat;
 import org.springframework.stereotype.Service;
 import org.springframework.util.StringUtils;
 
@@ -36,14 +37,14 @@ public class SqlUtil {
         Field[] declaredFields = c.getDeclaredFields();
         return Arrays.stream(declaredFields)
                 .filter(f -> !"id".equals(f.getName()))
-                .map(Field::getName)
+                .map(f -> CaseFormat.LOWER_CAMEL.to(CaseFormat.LOWER_UNDERSCORE, f.getName()))
                 .collect(joining(", "));
     }
 
     public static String getSelectFields(Class c){
         Field[] declaredFields = c.getDeclaredFields();
         return Arrays.stream(declaredFields)
-                .map(Field::getName)
+                .map(f -> CaseFormat.LOWER_CAMEL.to(CaseFormat.LOWER_UNDERSCORE, f.getName()))
                 .collect(joining(", "));
     }
 
@@ -54,4 +55,7 @@ public class SqlUtil {
                 .map(field -> field.getName() + " = #{" + field.getName() + "}").collect(joining(", "));
     }
 
+    public static String getColumName(String field){
+        return CaseFormat.LOWER_CAMEL.to(CaseFormat.LOWER_UNDERSCORE, field);
+    }
 }

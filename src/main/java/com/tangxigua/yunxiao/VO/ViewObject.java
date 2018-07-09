@@ -1,4 +1,4 @@
-package com.tangxigua.yunxiao.model;
+package com.tangxigua.yunxiao.VO;
 
 import java.util.HashMap;
 import java.util.Map;

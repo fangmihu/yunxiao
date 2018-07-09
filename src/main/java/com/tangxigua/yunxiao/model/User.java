@@ -2,6 +2,8 @@ package com.tangxigua.yunxiao.model;
 
 import com.tangxigua.yunxiao.dao.util.TableName;
 
+import javax.validation.constraints.NotNull;
+
 /*******************************************************
  * Copyright (C) 2018 iQIYI.COM - All Rights Reserved
  *
@@ -13,16 +15,18 @@ import com.tangxigua.yunxiao.dao.util.TableName;
  * in 2018/7/3
  *******************************************************/
 
-@TableName("user")
 public class User {
 
     private Integer id;
 
+    @NotNull
     private String userName;
 
     private String password;
 
     private String salt;
+
+    private String headUrl;
 
     public Integer getId() {
         return id;
