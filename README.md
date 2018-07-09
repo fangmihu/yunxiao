@@ -1,2 +1,1 @@
-# yunxiao
-基于springboot + vue + mysql 搭建的商城项目
+缓存策略：先更新数据库再删除缓存
