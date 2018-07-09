@@ -1,5 +1,8 @@
 package com.tangxigua.yunxiao.dao;
 
+import com.tangxigua.yunxiao.dao.sqlProvidr.CommoditySqlProvider;
+import com.tangxigua.yunxiao.model.Commodity;
+import org.apache.ibatis.annotations.InsertProvider;
 import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Repository;
 
@@ -20,11 +23,12 @@ import org.springframework.stereotype.Repository;
 public interface CommodityDao {
 
     String TABLE_NAME = "commodity";
-    String INSERT_FIELDS = " categoryId, name, price, stock ";
+    String INSERT_FIELDS = " category_id, name, price, stock ";
     String INSERT_VALUES = " #{categoryId}, #{name}, #{price}, #{stock} ";
     String SELECT_FIELDS = " id,categoryId, name, price, stock ";
 
-
+    @InsertProvider(type = CommoditySqlProvider.class, method = "insert")
+    int insert(Commodity commodity);
 
 
 }

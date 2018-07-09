@@ -1,14 +1,3 @@
-package com.tangxigua.yunxiao.controller;
-
-import com.tangxigua.yunxiao.model.User;
-import com.tangxigua.yunxiao.model.ViewObject;
-import com.tangxigua.yunxiao.service.UserService;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Controller;
-import org.springframework.web.bind.annotation.*;
-
-import java.util.Map;
-
 /*******************************************************
  * Copyright (C) 2018 iQIYI.COM - All Rights Reserved
  *
@@ -19,7 +8,13 @@ import java.util.Map;
  * Created by fangmingfu_sx <fangmingfu_sx@qiyi.com>
  * in 2018/7/3
  *******************************************************/
+package com.tangxigua.yunxiao.controller;
 
+import com.tangxigua.yunxiao.model.User;
+import com.tangxigua.yunxiao.VO.ViewObject;
+import com.tangxigua.yunxiao.service.UserService;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.*;
 
 @RestController
 @RequestMapping("/api/user")
