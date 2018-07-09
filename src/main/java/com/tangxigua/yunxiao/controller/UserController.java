@@ -15,6 +15,7 @@ import com.tangxigua.yunxiao.VO.ViewObject;
 import com.tangxigua.yunxiao.service.UserService;
 import org.apache.shiro.authc.IncorrectCredentialsException;
 import org.apache.shiro.authc.UnknownAccountException;
+import org.apache.shiro.authz.annotation.RequiresPermissions;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
@@ -64,5 +65,35 @@ public class UserController {
         map.put("msg", msg);
         // 此方法不处理登录成功,由shiro进行处理
         return "/login";
+    }
+
+    /**
+     * 用户查询.
+     * @return
+     */
+    @RequestMapping("/userList")
+    @RequiresPermissions("userInfo:view")//权限管理;
+    public String userInfo(){
+        return "userInfo";
+    }
+
+    /**
+     * 用户添加;
+     * @return
+     */
+    @RequestMapping("/userAdd")
+    @RequiresPermissions("userInfo:add")//权限管理;
+    public String userInfoAdd(){
+        return "userInfoAdd";
+    }
+
+    /**
+     * 用户删除;
+     * @return
+     */
+    @RequestMapping("/userDel")
+    @RequiresPermissions("userInfo:del")//权限管理;
+    public String userDel(){
+        return "userInfoDel";
     }
 }
