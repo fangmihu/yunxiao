@@ -3,6 +3,7 @@ package com.tangxigua.yunxiao.model;
 import com.tangxigua.yunxiao.dao.util.TableName;
 
 import javax.validation.constraints.NotNull;
+import java.util.List;
 
 /*******************************************************
  * Copyright (C) 2018 iQIYI.COM - All Rights Reserved
@@ -27,6 +28,8 @@ public class User {
     private String salt;
 
     private String headUrl;
+
+    private List<SysRole> roleList;// 一个用户具有多个角色
 
     public Integer getId() {
         return id;
@@ -58,5 +61,21 @@ public class User {
 
     public void setSalt(String salt) {
         this.salt = salt;
+    }
+
+    public String getHeadUrl() {
+        return headUrl;
+    }
+
+    public void setHeadUrl(String headUrl) {
+        this.headUrl = headUrl;
+    }
+
+    public List<SysRole> getRoleList() {
+        return roleList;
+    }
+
+    public void setRoleList(List<SysRole> roleList) {
+        this.roleList = roleList;
     }
 }
