@@ -23,4 +23,6 @@ public interface CommodityService {
     Commodity getById(Long id);
 
     List<Commodity> listByKeyWord(String keyWord);
+
+    List<Commodity> searchByKeyWord(String keyWord);
 }

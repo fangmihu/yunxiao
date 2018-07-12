@@ -18,6 +18,11 @@ import java.io.Serializable;
 
 public class Commodity {
 
+    public static final String INDEX_NAME = "index_yunxiao";
+
+    public static final String TYPE = "commodity";
+
+
     private Long id;
 
     @NotNull(message = "分类不能为空")

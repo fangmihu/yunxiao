@@ -49,4 +49,14 @@ public class CommodityServiceImpl implements CommodityService {
     public List<Commodity> listByKeyWord(String keyWord) {
         return null;
     }
+
+    /**
+     * search commodity from es
+     * @param keyWord
+     * @return commodityList ordered by matching degree
+     */
+    @Override
+    public List<Commodity> searchByKeyWord(String keyWord) {
+        return null;
+    }
 }
