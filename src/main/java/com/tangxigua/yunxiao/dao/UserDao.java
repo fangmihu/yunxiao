@@ -37,3 +37,4 @@ public interface UserDao {
     Long test();
 
 }
+
